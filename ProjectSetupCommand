@@ -1,0 +1,22 @@
+Angular Notes.................
+ng serve --live-reload true
+
+
+sudo npm install -g @angular/cli
+ng new mean-course
+ng add @angular/material
+npm install --save @angular/material@8 --save exact
+npm install --save mongoose
+npm install dotenv --save
+npm install --save multer
+npm i mongoose-unique-validator
+npm i jsonwebtoken
+npm install --save bcrypt
+
+
+
+
+
+npm install --save auth0-js
+
+
