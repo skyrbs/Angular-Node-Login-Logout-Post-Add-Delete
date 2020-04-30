@@ -19,7 +19,7 @@ const userRoutes = require("./routes/user");
 const app = express();
 
 mongoose
-.connect("mongodb+srv://ecommerce:hello@123@nodeapi-2sv5v.mongodb.net/nodeapi?w=majority",{
+.connect("mongodb+srv://ecommerce:test@123@nodeapi-2sv5v.mongodb.net/nodeapi?w=majority",{
 	useNewUrlParser: true,
     useCreateIndex: true,
     useUnifiedTopology: true

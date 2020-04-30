@@ -1,6 +1,14 @@
-# MeanCourse
+# Angular Node Login Logout Add Post Delete Post Edit Post with pagination
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+
+## Project Setup
+* Run all the command from project setup command or npm install
+* Add you mongoose atlas Url in backend app.js file  
+ Ex. mongodb+srv://ecommerce:test@123@nodeapi-2sv5v.mongodb.net/nodeapi?w=majority
+  - here test@123:is your mongoose DB password for more details refer mongoose atlas tutorial.
+  - nodeapi is Database name in mongoose atlas.
+
 
 ## Development server
 
